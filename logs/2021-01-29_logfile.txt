@@ -1,0 +1,4 @@
+2021-01-29 13:58:59.0992 INFO Here is an info message
+2021-01-29 13:58:59.1457 DEBUG Here is an debug message
+2021-01-29 13:58:59.1457 WARN Here is a warning message
+2021-01-29 13:58:59.1646 ERROR Here is an error message
